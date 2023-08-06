@@ -2,7 +2,7 @@
   /* amount of spacing and padding */
   --spacing: 10px;
   /* radius of round corners */
-  --roundness: 10px;
+  --roundness: 0px;
 
   /* color of links */
   --accent-1: hsl(190, 70%, 60%);
