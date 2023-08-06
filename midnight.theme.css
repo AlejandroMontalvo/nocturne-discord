@@ -9,7 +9,7 @@
 
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!! */
 
-@import url("https://refact0r.github.io/midnight-discord/midnight.css");
+@import url("https://raw.githubusercontent.com/AlejandroMontalvo/nocturne-discord/master/midnight.css");
 
 /* change colors and variables here */
 :root {
@@ -30,7 +30,7 @@
   --accent-5: hsl(190, 70%, 20%);
 
   /* color of mentions and messages that mention you */
-  --mention: hsla(0, 0%, 6%, 0.1);
+  --mention: hsla(190, 60%, 50%, 0.1);
   /* color of mentions and messages that mention you when hovered */
   --mention-hover: hsla(190, 60%, 50%, 0.05);
 
